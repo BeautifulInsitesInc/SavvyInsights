@@ -1,4 +1,4 @@
-### Hi there 👋
+# Fight Complexity 
 
 <!--
 **UsefulAnalytics/UsefulAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+``
+
+| Backend Development | Front End Development | TA & Risk Managment |
+| :---: | :---: | :---: |
+|Django | HTML5 | MQL4 |
+| Python | CSS | TECHNICAL ANALYSIS |
+| SQL Databases | JavaScript | SCREENERS |
+| FireBase | React | TRADE MANAGMENT
+
